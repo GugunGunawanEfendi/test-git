@@ -1,3 +1,4 @@
 Membuat controller
 membuat model
 membuat view
+membuat database
