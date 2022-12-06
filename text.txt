@@ -1,1 +1,2 @@
 Ini adalah catatan untuk belajar git
+1. membuat repository baru di git
